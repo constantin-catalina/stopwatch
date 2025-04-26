@@ -1,11 +1,3 @@
-/*
- * digit.h
- *
- * Created: 4/2/2025 4:57:02 PM
- *  Author: dspuser
- */ 
-
-
 #ifndef DIGIT_H_
 #define DIGIT_H_
 

@@ -1,10 +1,3 @@
-/*
- * digit.c
- *
- * Created: 4/2/2025 4:56:49 PM
- *  Author: dspuser
- */ 
-
 #include "digit.h"
 
 void init_digit(){

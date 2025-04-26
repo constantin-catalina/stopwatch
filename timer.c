@@ -1,10 +1,3 @@
-/*
- * timer.c
- *
- * Created: 4/2/2025 4:05:07 PM
- *  Author: dspuser
- */ 
-
 #include <stdbool.h>
 #include <avr/io.h>
 #include <avr/interrupt.h>

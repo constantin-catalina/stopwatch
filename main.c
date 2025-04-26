@@ -1,10 +1,3 @@
-/*
- * main.c
- *
- * Created: 4/2/2025 4:01:33 PM
- * Author : dspuser
- */ 
-
 #define F_CPU 14745600UL
 
 #include <avr/io.h>
